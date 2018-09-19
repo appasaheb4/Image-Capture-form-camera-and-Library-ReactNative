@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://drive.google.com/open?id=18WG4kUt9mYVOhjNhPuBIGMi4_sKMH1ij" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+  <img src="https://drive.google.com/open?id=1pzx1cIcp7mGluvKsmVLLUAxDMCXGsbaM" width="350" alt="accessibility text">
 </p>
 
 
